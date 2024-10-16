@@ -1,8 +1,8 @@
 # ml-dse
-Machine Learning for Digital Scholarly Editions, SS 2024
+Machine Learning for Digital Scholarly Editions, WS 2024/25
 by Sarah Lang & Martina Scholger
 
-This is the repository for the course "Machine Learning for Digital Scholarly Editions" at the University of Graz, summer semester 2024.
+This is the repository for the course "Machine Learning for Digital Scholarly Editions" at the University of Graz, winter semester 2024/25.
 It will contain all Jupyter Notebooks and example data that we will use during the course.
 
 ## Usage
